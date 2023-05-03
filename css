@@ -1,0 +1,5 @@
+bookshelf-api/
+  |- src/
+      |- server.js
+      |- database.js
+  |- package.json
