@@ -1,0 +1,4 @@
+$ mkdir bookshelf-api
+$ cd bookshelf-api
+$ npm init -y
+$ npm install express body-parser knex sqlite3
